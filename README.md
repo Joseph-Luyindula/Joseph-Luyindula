@@ -5,19 +5,6 @@
 My name is Joseph Luyindula, I'm from Congo (DRC 🇨🇩) and I live in Kinshasa. I am an independent developer.
 
 
-<style>
-body{
-text-align: center;
-}
-
-div{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-</style>
-
-
 ### Languages and Tools :
   <link rel="stylesheet" href="style.css">
   <div>
